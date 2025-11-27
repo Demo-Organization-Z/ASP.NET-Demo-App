@@ -46,7 +46,7 @@
         </li>
 
         <li>
-            <div class=" box consoleImage-5" style="background-image:url(ps4Sao.jpg)">
+            <div class=" box consoleImwerwerage-5" style="background-image:url(ps4Sao.jpg)">
                 <a runat="server" href="ps4Sao.html">
                     <h3> ps4 Sao Edition</h3>
                     <p> 21000TK </p>
