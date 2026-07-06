@@ -34,6 +34,8 @@
     <h4>GAME AND CHILL.</h4>
     <h3 style="color:red">
         Developed By: RAFID , TANIM & FABLIHA
+ Developed By: RAFID , TANIM & FABLIHA
+ Developed By: RAFID , TANIM & FABLIHA
     </h3>
     </div>
         </form>
